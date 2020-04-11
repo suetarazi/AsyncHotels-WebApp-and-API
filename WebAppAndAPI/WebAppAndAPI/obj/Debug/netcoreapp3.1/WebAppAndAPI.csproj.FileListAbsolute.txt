@@ -86,8 +86,6 @@ C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAp
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.csproj.CoreCompileInputs.cache
-C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.csproj.CopyComplete
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.dll
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.pdb
@@ -102,3 +100,5 @@ C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAp
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.RazorTargetAssemblyInfo.cs
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.Views.pdb
+C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.MvcApplicationPartsAssemblyInfo.cache
