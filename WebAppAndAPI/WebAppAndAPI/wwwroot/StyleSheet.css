@@ -1,0 +1,12 @@
+﻿body {
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px; 
+    font-weight: bold;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
