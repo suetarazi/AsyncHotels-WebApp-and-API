@@ -8,7 +8,10 @@ namespace WebAppAndAPI.Models
     public class Hotels
     {
         //4/12/20 - insert JSON annotations
+        [JsonPropertyName("id")]
         public int Id { get; set; }
+        
+        [JsonPropertyName("name")]
         public string Name { get; set; }
 
         public string StreetAddress { get; set; }
