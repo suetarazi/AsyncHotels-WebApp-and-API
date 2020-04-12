@@ -11,6 +11,22 @@
 </head>
 
 <body>
+    <h1>Proof of Life</h1>
+    @*<form method="post">
+        <label asp-for="name"></label>
+        <input asp-for="name" />
+    </form>*@
+
+    @foreach (var hotel in Model)
+    {
+        <h2>@hotel.Name</h2>
+        <p>@hotel.StreetAdress</p>
+        <p>@hotel.City</p>
+        <p>@hotel.PhoneNumber</p>
+
+</body>
+
+<body>
     <nav class="navbar navbar-light bg-light navbar-expand-lg fixed-top">
         <a href="#" class="navbar-brand">Async Hotels</a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
@@ -28,8 +44,4 @@
         </div>
     </nav>
     <h1>Welcome to Async Hotels</h1>
-
-
-
-
 </body>

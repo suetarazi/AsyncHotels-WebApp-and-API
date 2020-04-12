@@ -24,12 +24,9 @@ namespace WebAppAndAPI.Models.Services
                 new MediaTypeWithQualityHeaderValue("application/json"));
 
             var streamTask = await client.GetStreamAsync($"{baseUrl}/{route}");
+            var result = await JsonSerializer.DeserializeAsync<List<Hotels>>(streamTask);
 
-            //converted to C# from JSON
-            //var result = await JsonSerializer.DeserializeAsync<List<Hotels>>(streamTask);
-
-            //return result;
-            return null;
+            return result;
 
         }
 

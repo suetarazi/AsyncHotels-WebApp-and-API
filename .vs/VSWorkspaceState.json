@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebAppAndAPI",
+    "\\WebAppAndAPI\\WebAppAndAPI",
+    "\\WebAppAndAPI\\WebAppAndAPI\\Views",
+    "\\WebAppAndAPI\\WebAppAndAPI\\Views\\Home"
   ],
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
