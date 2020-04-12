@@ -8,7 +8,7 @@ namespace WebAppAndAPI.Models.Interfaces
     interface IHotelManager
     {
         //get all hotels
-        //Task<List<Hotel>> GetAllHotels();
+        Task<List<Hotels>> GetAllHotels();
 
         //get hotel by ID
         Task GetHotelByID();

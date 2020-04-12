@@ -102,3 +102,4 @@ C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAp
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.Views.pdb
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.csproj.CoreCompileInputs.cache
 C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\WebAppAndAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sue Machtley\source\repos\AsyncHotels-WebApp-and-API\WebAppAndAPI\WebAppAndAPI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Results.cshtml.g.cs
