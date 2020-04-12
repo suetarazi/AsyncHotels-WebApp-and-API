@@ -7,7 +7,7 @@ namespace WebAppAndAPI.Models
 {
     public class Hotels
     {
-
+        //4/12/20 - insert JSON annotations
         public int Id { get; set; }
         public string Name { get; set; }
 
@@ -20,7 +20,7 @@ namespace WebAppAndAPI.Models
         public string PhoneNumber { get; set; }
 
         //not sure about including HotelRoomDTO - do we need it to return a list of hotels or info about a specific hotel?
-        //public List<HotelRoomDTO> Rooms { get; set; }
+       // public List<HotelRoom> Rooms { get; set; }
 
     }
 }
