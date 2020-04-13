@@ -1,5 +1,6 @@
 ﻿@page
-@model WebAppAndAPI.Views.Home.IndexModel
+@model IEnumerable<WebAppAndAPI.Models.Hotels>
+    
 @{
 }
 <!DOCTYPE html>
@@ -37,7 +38,7 @@
     @foreach (var hotel in Model)
     {
         <h2>@hotel.Name</h2>
-        <p>@hotel.StreetAdress</p>
+        <p>@hotel.StreetAddress</p>
         <p>@hotel.City</p>
         <p>@hotel.PhoneNumber</p>
     }

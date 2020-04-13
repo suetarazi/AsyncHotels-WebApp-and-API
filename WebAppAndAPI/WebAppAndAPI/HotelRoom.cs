@@ -26,12 +26,8 @@ namespace WebAppAndAPI
         [JsonPropertyName("rate")]
         public decimal Rate { get; set; }
 
-
-        //navigation - has 2 foreign keys
-        [JsonPropertyName("hotel")]
-        public Hotel Hotel { get; set; }
         [JsonPropertyName("room")]
         public Room Room { get; set; }
     }
 }
-}
+
