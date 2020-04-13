@@ -19,8 +19,8 @@ namespace WebAppAndAPI
         public Layout Layout { get; set; }
 
         //Navigation properties
-        [JsonPropertyName("roomAmenities")]
-        public List<RoomAmenities> RoomAmenities { get; set; }
+        [JsonPropertyName("amenities")]
+        public List<Amenities> Amenities { get; set; }
 
         [JsonPropertyName("hotelRoom")]
         public List<HotelRoom> HotelRoom { get; set; }
@@ -37,4 +37,4 @@ namespace WebAppAndAPI
         TwoBedroomADA
     }
 }
-}
+

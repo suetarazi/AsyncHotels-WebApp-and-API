@@ -16,8 +16,9 @@ namespace WebAppAndAPI.Models.Services
         {
             //get all the hotels fromt the third party API
 
-            //set destination
-            var baseUrl = @"https://asyncsolution.azurewebsites.net/api";
+            //set destination 
+            var baseUrl = @"https://localhost:44323/api";
+            //var baseUrl = @"https://hotelmanager.azurewebsites.net/api";
             string route = "hotels";
 
             client.DefaultRequestHeaders.Accept.Clear();
@@ -36,8 +37,9 @@ namespace WebAppAndAPI.Models.Services
 
         public async Task<Hotels> GetHotelByID(int hotelId)
         {
-            //set destination
+            //set destination https://localhost:44323/api
             var baseUrl = @"https://localhost:44323/api";
+           // var baseUrl = @"https://hotelmanager.azurewebsites.net/api";
             string route = $"hotels/{hotelId}";
 
             client.DefaultRequestHeaders.Accept.Clear();

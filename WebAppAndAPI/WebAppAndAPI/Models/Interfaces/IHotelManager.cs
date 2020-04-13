@@ -5,13 +5,13 @@ using System.Threading.Tasks;
 
 namespace WebAppAndAPI.Models.Interfaces
 {
-    interface IHotelManager
+    public interface IHotelManager
     {
         //get all hotels
         Task<List<Hotels>> GetAllHotels();
 
         //get hotel by ID
-        Task GetHotelByID();
+        Task<Hotels> GetHotelByID(int hotelId);
 
     }
 }

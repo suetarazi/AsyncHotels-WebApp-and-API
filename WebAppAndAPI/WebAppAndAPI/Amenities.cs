@@ -15,8 +15,6 @@ namespace WebAppAndAPI
         public string Name { get; set; }
 
 
-        //Navigation property
-        [JsonPropertyName("roomAmenities")]
-        public ICollection<RoomAmenities> RoomAmenities { get; set; }
+       
     }
 }
