@@ -29,7 +29,17 @@
     </nav>
     <h1>Welcome to Async Hotels</h1>
 
+    @*<form method="post">
+            <label asp-for="name"></label>
+            <input asp-for="name" />
+        </form>*@
 
+    @foreach (var hotel in Model)
+    {
+        <h2>@hotel.Name</h2>
+        <p>@hotel.StreetAdress</p>
+        <p>@hotel.City</p>
+        <p>@hotel.PhoneNumber</p>
+    }
 
-
-</body>
+    </body>

@@ -17,7 +17,7 @@ namespace WebAppAndAPI.Models.Services
             //get all the hotels fromt the third party API
 
             //set destination
-            var baseUrl = @"https://localhost:44323/api";
+            var baseUrl = @"https://asyncsolution.azurewebsites.net/api";
             string route = "hotels";
 
             client.DefaultRequestHeaders.Accept.Clear();
