@@ -1,5 +1,5 @@
 
-# Async Inn Frontent Client
+# Async Inn Frontend Client
 
 ## Async Inn
 By Sue Tarazi & Brody Rebne
